@@ -35,8 +35,10 @@ You can then interact with the chatbot by typing messages and pressing Enter. It
 CONCLUSION:
 In conclusion, the Python chatbot offers a practical solution for providing automated responses to user queries and can be further customized and extended to meet specific requirements. Its simplicity, flexibility, and effectiveness make it a valuable tool for a wide range of applications, from customer service to educational purposes
 The Python chatbot we've created provides a simple yet effective way to engage in conversation with users. By leveraging predefined patterns and responses stored in a dictionary, the chatbot can understand various user inputs and provide relevant responses.
+
 OUTPUT:
 
+![image](https://github.com/kalasamyeswanth/python-sample-chatbot/assets/79371940/0de54fc1-9497-41ed-b473-62e088c9e986)
  
 
 
